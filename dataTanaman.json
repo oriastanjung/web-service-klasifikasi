@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "nama": "Avicennia alba",
+    "dekripsi": "Avicennia alba adalah salah satu jenis mangrove yang dapat tumbuh hingga mencapai ketinggian 25 meter dan tersebar luas. Pohon ini memiliki sistem perakaran horizontal yang kompleks serta akar nafas yang rumit. Akar nafasnya biasanya tipis dan berbentuk seperti jari atau asparagus, dilapisi oleh lentisel. Kulit kayu luarnya berwarna keabu-abuan atau coklat gelap, dengan beberapa bagian memiliki tonjolan kecil sementara bagian lainnya kadang-kadang memiliki permukaan yang halus. Pada batang yang tua, kadang-kadang ditemukan serbuk tipis.",
+    "ekologi": "Jenis ini adalah pionir di habitat rawa mangrove pada pantai yang terlindung, area yang lebih asin di sepanjang tepi sungai yang dipengaruhi pasang surut, serta sepanjang garis pantai. Mereka biasanya tumbuh subur di bagian depan teluk. Akar-akarnya diketahui membantu mengikat sedimen dan mempercepat proses pembentukan daratan. Tanaman ini berbunga sepanjang tahun. Genus ini kadang-kadang bersifat vivipar, di mana sebagian buah berkembang biak saat masih menempel pada pohon.",
+    "manfaat": "Batang dari jenis ini dapat digunakan sebagai kayu bakar dan bahan bangunan berkualitas rendah. Getahnya bisa dimanfaatkan sebagai alat kontrasepsi. Buahnya dapat dimakan.",
+    "penyebaran": "Ditemukan di seluruh Indonesia, India, Indo Cina, Malaysia, Filipina, Papua Nugini, dan Australia tropis.",
+    "imgSRC": "/gambar_data_tanaman/Avicennia alba.JPG"
+  },
+  {
+    "id": 2,
+    "nama": "Bruguiera cylindrica",
+    "dekripsi": "Bruguiera cylindrica memiliki akar lutut dan akar papan yang menyebar ke samping dari pangkal pohon, dengan ketinggian yang kadang-kadang mencapai 23 meter. Kulit kayunya berwarna abu-abu, relatif halus, dan memiliki sejumlah lentisel kecil.",
+    "ekologi": "Tumbuh mengelompok dalam jumlah besar, biasanya pada tanah liat di belakang zona Avicennia, atau di bagian tengah vegetasi mangrove kearah laut. Jenis ini juga memiliki kemampuan untuk tumbuh pada tanah/substrat yang baru terbentuk dan tidak cocok untuk jenis lainnya. Kemampuan tumbuhnya pada tanah liat membuat pohon jenis ini sangat bergantung kepada akar nafas untuk memperoleh pasokan oksigen yang cukup, dan oleh karena itu sangat responsif terhadap penggenangan yang berkepanjangan. Memiliki buah yang ringan dan mengapung sehinggga penyebarannya dapat dibantu oleh arus air, tapi pertumbuhannya lambat. Perbungaan terjadi sepanjang tahun.",
+    "manfaat": "Batang mangrove jenis ini dapat dimanfaatkan menjadi kayu bakar. Di beberapa daerah, akar muda dari embrionya dimakan dengan gula dan kelapa. Para nelayan tidak menggunakan kayunya untuk kepentingan penangkapan ikan karena kayu tersebut mengeluarkan bau yang menyebabkan ikan tidak mau mendekat.",
+    "penyebaran": "Tersebar di Asia Tenggara, Australia, dan seluruh Indonesia termasuk Irian Jaya.",
+    "imgSRC": "/gambar_data_tanaman/Bruguiera cylindrica.JPG"
+  },
+  {
+    "id": 3,
+    "nama": "Bruguiera gymnorrhiza",
+    "dekripsi": "Mangrove jenis ini dapat mencapau ketinggian 30 m. Kulit kayu memiliki lentisel, permukaannya halus hingga kasar, berwarna abu-abu tua sampai coklat (warna berubah-ubah). Akarnya seperti papan melebar ke samping di bagian pangkal pohon, juga memiliki sejumlah akar lutut.",
+    "ekologi": "Merupakan jenis yang dominan pada hutan mangrove yang tinggi dan merupakan ciri dari perkembangan tahap akhir dari hutan pantai, serta tahap awal dalam transisi menjadi tipe vegetasi daratan. Tumbuh di areal dengan salinitas rendah dan kering, serta tanah yang memiliki aerasi yang baik. Jenis ini toleran terhadap daerah terlindung maupun yang mendapat sinar matahari langsung. Mereka juga tumbuh pada tepi daratan dari mangrove, sepanjang tambak serta sungai pasang surut dan payau. Ditemukan di tepi pantai hanya jika terjadi erosi pada lahan di hadapannya. Substrat-nya terdiri dari lumpur, pasir dan kadang-kadang tanah gambut hitam. Kadang-kadang juga ditemukan di pinggir sungai yang kurang terpengaruh air laut, hal tersebut dimungkinkan karena buahnya terbawa arus air atau gelombang pasang. Regenerasinya seringkali hanya dalam jumlah terbatas. Bunga dan buah terdapat sepanjang tahun. Bunga relatif besar, memiliki kelopak bunga berwarna kemerahan, tergantung, dan mengundang burung untuk melakukan penyerbukan.",
+    "manfaat": "Bagian dalam hipokotil dimakan (manisan kandeka), dicampur dengan gula. Kayunya yang berwarna merah digunakan sebagai kayu bakar dan untuk membuat arang.",
+    "penyebaran": "Dari Afrika Timur dan Madagaskar hingga Sri Lanka, Malaysia, Indonesia, hingga ke Pasifik Barat dan Australia Tropis.",
+    "imgSRC": "/gambar_data_tanaman/Bruguiera gymnorrhiza.JPG"
+  },
+  {
+    "id": 4,
+    "nama": "Lumnitzera littorea",
+    "dekripsi": "Jenis ini tumbuh tersebar dan dapat mencapai ketinggian 25 m. m, meskipun pada umumnya lebih rendah. Akar nafas berbentuk lutut, berwarna coklat tua dan kulit kayu memiliki celah/retakan membujur (longitudinal).",
+    "ekologi": "Jenis ini seringkali ditemui ditempat dengan substrat halus dan berlumpur pada  bagian pinggir daratan di daerah mangrove, dimana penggenangan jarang terjadi. Mereka juga terdapat pada jalur air yang memiliki pasokan air tawar yang kuat dan tetap. Perbungaan terjadi sepanjang tahun. Produksi nektar, warna bunga serta morfologi dan lokasinya menunjukkan bahwa penyerbukannya dibantu oleh burung. Buah yang ringan dan dapat mengapung sangat menunjang penyebaran mereka melalui air.",
+    "manfaat": "Kayunya kuat dan sangat tahan terhadap air. Dengan penampilannya yang menarik dan memiliki wangi seperti mawar, maka kayunya sangat cocok untuk dijadikan sebagai bahan pembuatan lemari dan furnitur lainnya. Sayangnya, kayu berukuran besar sangat jarang ditemukan.",
+    "penyebaran": "Di daerah tropis Asia, Indonesia, Australia Utara, dan Polinesia. Jarang dijumpai di pantai-pantai di Jawa.",
+    "imgSRC": "/gambar_data_tanaman/Lumnitzera littorea.JPG"
+  },
+  {
+    "id": 5,
+    "nama": "Rhizophora apiculata",
+    "dekripsi": "Jenis ini dapat mencapai ketinggian 30 m dengan diameter batang 50cm. Memiliki perakaran yang khas hingga mencapai ketinggian 5 meter, dan kadang-kadang memiliki akar udara yang keluar dari cabang. Kulit kayu berwarna abu-abu tua dan berubah-ubah.",
+    "ekologi": "Sering ditemui tumbuh pada tanah berlumpur, halus, dalam dan tergenang pada saat pasang normal. Tidak menyukai substrat yang lebih keras yang bercampur dengan pasir. Tingkat dominasi dapat mencapai 90% dari vegetasi yang tumbuh di suatu lokasi. Menyukai perairan pasang surut yang memiliki pengaruh masukan air tawar yang kuat secara permanen. Percabangan akarnya dapat tumbuh secara abnormal karena gangguan kumbang yang menyerang ujung akar. Kepiting dapat juga menghambat pertumbuhan mereka karena mengganggu kulit akar anakan. Tumbuh lambat, tetapi perbungaan terdapat sepanjang tahun.",
+    "manfaat": "Kayu dimanfaatkan untuk bahan bangunan, kayu bakar dan arang. Kulit kayu berisi hingga 30% tanin (per sen berat kering). Cabang akar dapat digunakan sebagai jangkar dengan diberati batu. Di Jawa acapkali ditanam di pinggiran tambak untuk melindungi pematang. Sering digunakan sebagai tanaman penghijauan.",
+    "penyebaran": "Dari Sri Lanka, Malaysia, Indonesia hingga Australia Tropis dan Kepulauan Pasifik."
+    ,
+    "imgSRC": "/gambar_data_tanaman/Rhizophora apiculata.JPG"
+
+  },
+  {
+    "id": 6,
+    "nama": "Rhizophora mucronata",
+    "dekripsi": "Jenis ini biasanya memiliki tinggi maksimal sepanjam 27 m, jarang melebihi 30 m. Batangnya dapat memiliki diameter hingga 70 cm. dengan kulit kayu berwarna gelap hingga hitam dan terdapat celah horizontal. Akar tunjang dan akar udara yang tumbuh dari percabangan bagian bawah.",
+    "ekologi": "Sering ditemui dihabitat yang sama dengan R. apiculata  tetapi lebih toleran terhadap substrat yang lebih keras dan pasir. Pada umumnya tumbuh dalam kelompok, dekat atau pada pematang sungai pasang surut dan di muara sungai, jarang sekali tumbuh pada daerah yang jauh dari air pasang surut. Pertumbuhan optimal terjadi pada areal yang tergenang dalam, serta pada tanah yang kaya akan humus. Merupakan salah satu jenis tumbuhan mangrove yang paling penting dan paling tersebar luas. Perbungaan terjadi sepanjang tahun. Anakan seringkali dimakan oleh kepiting, sehingga menghambat pertumbuhan mereka. Anakan yang telah dikeringkan dibawah naungan untuk beberapa hari akan lebih tahan terhadap gangguan kepiting. Hal tersebut mungkin dikarenakan adanya akumulasi tanin dalam jaringan yang kemudian melindungi mereka.",
+    "manfaat": "Kayu digunakan sebagai bahan bakar dan arang. Tanin dari kulit kayu digunakan untuk pewarnaan, dan kadang-kadang digunakan sebagai obat dalam kasus hematuria (perdarahan pada air seni). Kadang-kadang ditanam di sepanjang tambak untuk melindungi pematang.",
+    "penyebaran": "Dari Afrika Timur, Asia Tenggara, seluruh Malaysia dan Indonesia, Melanesia, Mikronesia, hingga ditanam di Hawaii."
+    ,
+    "imgSRC": "/gambar_data_tanaman/Rhizophora mucronata.JPG"
+
+  },
+  {
+    "id": 7,
+    "nama": "Scyphiphora hydrophyllacea",
+    "dekripsi": "Jenis ini memiliki pohon semak tegak, memiliki banyak cabang, dan ketinggian maksimal mencapai 3 m. Kulit kayu kasar berwarna coklat, cabang muda memiliki resin, kadang-kadang terdapat akar tunjang pada individu yang besar.",
+    "ekologi": "Tumbuh pada substrat lumpur, pasir dan karang pada tepi daratan mangrove atau pada pematang dan dekat jalur air. Nampaknya tidak toleran terhadap penggenangan air tawar dalam waktu yang lama dan biasanya menempati lokasi yang kerap tergenang oleh pasang surut. Dilaporkan tumbuh pada lokasi yang tidak cocok untuk dikolonisasi oleh jenis tumbuhan mangrove lainnya. Perbungaan terdapat sepanjang tahun, kemungkinan diserbuki sendiri atau oleh serangga. Nektar diproduksi oleh cakram kelenjar pada pangkal mahkota bunga. Banyak buah yang dihasilkan, akan tetapi pembiakan biji relatif rendah. Buah teradaptasi dengan baik untuk penyebaran oleh air karena kulit buahnya yang ringan dan mengapung.",
+    "manfaat": "Kayu kemungkinan dapat digunakan untuk peralatan makan, seperti sendok. Daun dapat digunakan untuk mengatasi sakit perut.",
+    "penyebaran": "Ditemukan di India, Sri Lanka, Malaysia, Indonesia, Papua Nugini, Filipina, Kepulauan Solomon, dan Australia Tropis."
+    ,
+    "imgSRC": "/gambar_data_tanaman/Scyphyphora hydrophyllacea.JPG"
+
+  },
+  {
+    "id": 8,
+    "nama": "Sonneratia alba",
+    "dekripsi": "Mangrove jenis ini dapat mencapai ketinggian hingga 15 m.  Kulit kayu berwarna putih tua hingga coklat, dengan celah longitudinal yang halus. Akar berbentuk kabel di bawah tanah dan muncul kepermukaan sebagai akar nafas yang berbentuk kerucut tumpul dan tingginya mencapai 25 cm.",
+    "ekologi": "Jenis pionir, tidak toleran terhadap air tawar dalam periode yang lama. Menyukai tanah yang bercampur lumpur dan pasir, kadang-kadang pada batuan dan karang. Sering ditemukan di lokasi pesisir yang terlindung dari hempasan gelombang, juga di muara dan sekitar pulau-pulau lepas pantai. Di lokasi dimana jenis tumbuhan lain telah ditebang, maka jenis ini dapat membentuk tegakan yang padat. Perbungaan terjadi sepanjang tahun. Bunga hidup tidak terlalu lama dan mengembang penuh di malam hari, mungkin diserbuki oleh ngengat, burung dan kelelawar pemakan buah. Di jalur pesisir yang berkarang mereka tersebar secara vegetatif. Kunang-kunang sering menempel pada pohon ini dikala malam. Buah mengapung karena adanya jaringan yang mengandung air pada bijinya. Akar nafas tidak terdapat pada pohon yang tumbuh pada substrat yang keras.",
+    "manfaat": "Buahnya asam dapat dimakan. Di Sulawesi, kayu dibuat untuk perahu dan bahan bangunan, atau sebagai bahan bakar ketika tidak ada bahan bakar lain. Akar nafas digunakan oleh orang Irian untuk gabus dan pelampung.",
+    "penyebaran": "Dari Afrika Utara, Madagaskar, Asia Tenggara, Indonesia, Malaysia, Filipina, Australia Tropis, hingga Oceania Barat Daya."
+    ,
+    "imgSRC": "/gambar_data_tanaman/Sonneratia alba.JPG"
+
+  },
+  {
+    "id": 9,
+    "nama": "Xylocarpus granatum",
+    "dekripsi": "Pohon dapat mencapai ketinggian 10-20 m. Memiliki akar papan yang melebar ke samping, meliuk-liuk dan membentuk celahan-celahan. Batang seringkali berlubang, khususnya pada pohon yang lebih tua. Kulit kayu berwarna coklat muda-kekuningan, tipis dan mengelupas, sementara pada cabang yang muda, kulit kayu berkeriput.",
+    "ekologi": "Tumbuh di sepanjang pinggiran sungai pasang surut, pinggir daratan dari mangrove, dan lingkungan payau lainnya yang tidak terlalu asin. Seringkali tumbuh mengelompok dalam jumlah besar. Individu yang telah tua seringkali ditumbuhi oleh epifit.",
+    "manfaat": "Kayunya hanya tersedia dalam ukuran kecil, kadang-kadang digunakan sebagai bahan pembuatan perahu. Kulit kayu dikumpulkan karena kandungan taninnya yang tinggi (>24% berat kering).",
+    "penyebaran": "Tumbuh di Jawa, Madura, Bali, Karimun Jawa, Sumatera, Sulawesi, Kalimantan, Maluku, Sumba, dan Irian Jaya."
+    ,
+    "imgSRC": "/gambar_data_tanaman/Xylocarpus granatum.JPG"
+
+  }
+]
