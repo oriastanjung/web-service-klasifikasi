@@ -6,12 +6,12 @@ from scipy.spatial import distance
 
 def ekstrakBentuk(image):
     # Load the image in grayscale
-    imageGray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-    resized_image = cv2.resize(imageGray, (512, 512))  # Resize the image to 512x512
+    resized_image = cv2.resize(image, (512, 512))  # Resize the image to 512x512
+    imageGray = cv2.cvtColor(resized_image, cv2.COLOR_BGR2GRAY)
 
 
     # Apply Gaussian Blur to reduce noise
-    blurred_image = cv2.GaussianBlur(resized_image, (5, 5), 0)
+    blurred_image = cv2.GaussianBlur(imageGray, (5, 5), 0)
 
     # Apply histogram equalization to improve contrast
     equalized_image = exposure.equalize_hist(blurred_image)

@@ -43,7 +43,7 @@ def ekstrakTekstur(image):
     image_resized = cv2.resize(imageGray, (512, 512))
     
     # Mendefinisikan jarak dan sudut untuk perhitungan GLCM
-    distances = [1, 2, 3]  # Menggunakan berbagai jarak
+    distances = [1]  # Menggunakan berbagai jarak
     angles = [0, np.pi/4, np.pi/2, 3*np.pi/4]  # 0, 45, 90, 135 derajat
     
     # Inisialisasi array untuk menyimpan fitur untuk setiap sudut dan jarak
@@ -63,7 +63,7 @@ def ekstrakTekstur(image):
             idm_result.append(idm)
             entropy_result.append(entropy)
             korelasi_result.append(correlation)
-    
+    print(entropy_result)
     return asm_result, kontras_result, idm_result, entropy_result, korelasi_result
 
 
