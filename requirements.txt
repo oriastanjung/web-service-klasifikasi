@@ -6,3 +6,5 @@ numpy
 opencv-python
 scipy
 pandas
+quart
+quart_cors
