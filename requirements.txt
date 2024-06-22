@@ -8,3 +8,4 @@ scipy
 pandas
 quart
 quart_cors
+gunicorn
