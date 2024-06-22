@@ -1,5 +1,4 @@
 flask
-pickle
 scikit-learn
 scikit-image
 flask_cors

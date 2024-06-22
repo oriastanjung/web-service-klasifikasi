@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler, LabelEncoder
 from helper.ekstraksiBentuk import ekstrakBentuk
 from helper.ekstraksiTekstur import ekstrakTekstur
-import pickle
+# import pickle
 from scipy.spatial.distance import cdist
 from numpy.linalg import pinv
 
