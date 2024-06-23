@@ -47,6 +47,9 @@ async def upload_image():
     nparr = np.frombuffer(image_data, np.uint8)
     img_cv = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
     
+    # Save the image locally
+    # image_path = 'uploaded_image.png'
+    # cv2.imwrite(image_path, img_cv)
     # Perform classification (synchronously)
     klasifikasi_mangrove, id_mangrove = await asyncio.to_thread(klasifikasiMangrove, img_cv)
 

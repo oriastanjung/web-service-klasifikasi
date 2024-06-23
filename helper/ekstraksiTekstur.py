@@ -63,7 +63,7 @@ def ekstrakTekstur(image):
             idm_result.append(idm)
             entropy_result.append(entropy)
             korelasi_result.append(correlation)
-    print(entropy_result)
+    # print(entropy_result)
     return asm_result, kontras_result, idm_result, entropy_result, korelasi_result
 
 

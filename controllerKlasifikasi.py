@@ -114,6 +114,6 @@ def klasifikasiMangrove(image) :
     
     klasifikasi_mangrove =labels[predicted_label[0]-1]
     id_mangrove = predicted_label[0]-1
-    print(major_axis_length,perimeter,diameter,area,shape_factor)
+    # print(major_axis_length,perimeter,diameter,area,shape_factor)
 
     return klasifikasi_mangrove, id_mangrove
